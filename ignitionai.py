@@ -78,7 +78,7 @@ def chats_home():
     """
 
     st.markdown(
-        "<h1 style='text-align: center;'>Anchorstone AI</h1>", unsafe_allow_html=True
+        "<h1 style='text-align: center;'>Ignition Assist</h1>", unsafe_allow_html=True
     )
 
     with st.container(border=True):
